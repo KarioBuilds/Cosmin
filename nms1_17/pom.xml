@@ -20,11 +20,10 @@
         </dependency>
 
         <dependency>
-            <groupId>spigot1.17</groupId>
+            <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
-            <version>1.17.1</version>
-            <systemPath>${project.basedir}/lib/spigot-1.17.jar</systemPath>
-            <scope>system</scope>
+            <version>1.17.1-R0.1-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
